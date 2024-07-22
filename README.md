@@ -1,1 +1,1 @@
-# Music live-coding experimentations
+# Live-coding experimentations
